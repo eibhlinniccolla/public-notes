@@ -1,0 +1,15 @@
+---
+published: true
+---
+- [[What is a prototype? (JavaScript)]]
+- [[Object.create() (JavaScript)]]
+- [[Why are prototypes useful? (JavaScript)]]
+- [[Classes vs Prototypes (JavaScript)]]
+- [[Prototypal Inheritance]]
+- [[prototype (double brackets)]]
+- [[_proto_]]
+- [[dot prototype (JavaScript)|.prototype]]
+- [[Function.prototype]]
+- [[Object.prototype]]
+- [[Creating subclasses using prototypes (JavaScript)]]
+- [[The "new" keyword (JavaScript)]]

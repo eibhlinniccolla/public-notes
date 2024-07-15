@@ -1,0 +1,6 @@
+- First CSS methodology to become widely adopted. Still hugely influential today.
+- Advocates the separation of structure from skin.
+- Clear distinction between content and its containers.
+- Rules are written exclusively using class selectors.
+- Reduce duplication of the same properties
+- DRY stylesheets using small, modular, specialist CSS classes

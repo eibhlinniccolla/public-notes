@@ -1,0 +1,2 @@
+- https://hiddedevries.nl/en/blog/2018-07-05-what-kind-of-ethics-do-front-end-developers-need
+- https://www.eff.org/issues/do-not-track

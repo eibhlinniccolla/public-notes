@@ -1,0 +1,15 @@
+---
+published: true
+---
+- JavaScript is not a truly interpreted language
+    - It is parsed before execution
+        - If you have a syntax error on line 4, lines 1-3 never execute
+    - The compiling/parsing step produces an [Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
+- At compile time, several things occur
+    - All scopes are determined
+    - All identifiers are declared
+    - The scope that each identifier belongs to is determined
+    - The position (assignee or source) of each identifier is determined
+- Think of the result of the compilation step as a "treasure map" for the JavaScript Virtual Machine executing the code (in this scope, there should be this identifier and it is located here).
+    - Compile step: build the treasure map
+    - Run step: follow the treasure map and do the stuff the code says to do

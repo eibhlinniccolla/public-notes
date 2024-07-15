@@ -1,0 +1,1 @@
+Be wary of weirdness caused by empty strings and strings with only whitespace being coerced into a number

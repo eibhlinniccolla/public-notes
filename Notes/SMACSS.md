@@ -1,0 +1,22 @@
+- Scalable and Modular Architecture for CSS
+- Five categories:
+    - Base
+        - Rules that set the default CSS properties of individual HTML elements.
+        - Typically CSS type selectors.
+    - Layout
+        - Style rules that are related to the structural layout of web pages.
+        - Containers, the grid, etc.
+        - They are prefixed with layout- or l-.
+    - Modules
+        - Modular, reusable components.
+    - State
+        - Style rules that specify the current state of something in the interface.
+    - Themes
+        - Style rules that affect layout and modules, triggered by user preferences/actions/viewing contexts.
+- Offers a simpler naming convention than BEM.
+- There are no names for base styles because only type selectors (h1, p, a, etc.) are used for those.
+- Modules are given their own unique class names.
+- Sub-components and variations are prefixed with the name of their parent module.
+- SMACSS discourages the use of descendant selectors.
+    - Depth of applicability.
+        - This concept is all about limiting the impact that CSS has on HTML markup by using classes to very precisely target elements you want to style.

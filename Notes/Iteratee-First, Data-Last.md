@@ -1,0 +1,1 @@
+Means that when a function takes both an [[iterator]] and data as [[Argument|arguments]], the iterator comes first

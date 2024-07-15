@@ -1,0 +1,20 @@
+- Resources
+    - Courses
+        - Frontend Masters: [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) #project-management/goal
+        - Frontend Masters: Web Performance with Webpack #project-management/goal
+        - Frontend Masters: Webpack Plugins System #project-management/goal
+        - Egghead: Modern JavaScript Tooling with React
+- Webpack
+    - What does Webpack do?
+        - Bundles and optimizes files
+        - Analyzes connections between files (imports, exports)
+        - Allows you to transform files (transpile, etc.)
+    - How does it work
+        - Has one entry point (file)
+        - Builds dependency graph based on this file
+        - Applies file-dependent transformations to source code (`babel-loader`, `css-loader`)
+        - Applies global transformations to concatenated code (`uglify`)
+        - Orders and concatenates files into bundles
+    - Determine workflow requirements
+        - What kind things do you need to be able to do? (handle images)
+        - What kind of transformations need to occur? (transpile ES6, optimize code, auto-prefix CSS, etc.)

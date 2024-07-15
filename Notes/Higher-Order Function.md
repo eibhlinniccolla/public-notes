@@ -1,0 +1,1 @@
+A **higher-order function** is a [[function]] that can accept another function as a [[parameter]], or **return** a function

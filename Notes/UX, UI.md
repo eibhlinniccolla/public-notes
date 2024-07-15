@@ -1,0 +1,181 @@
+- Egghead: The Beginner's Guide to Figma
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) [read][$]
+- [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) [read][$]
+- [Design for Non-Designers](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) [watch]
+- [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4539707bb145c676472472aab25eaa56&camp=1789&creative=9325) [read][$]
+- [Designing Web Interfaces: Principles and Patterns for Rich Interactions](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=03fb59f4a4345732fae9ecdfaa5076ae&camp=1789&creative=9325) [read][$]
+- [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=8b0b0771a9985e4e030ef1fe29cf6409&camp=1789&creative=9325) [read][$]
+- https://www.youtube.com/watch?v=wDBEc3dJJV8
+- https://css-tricks.com/what-are-design-tokens/
+- https://www.udemy.com/course/ia-fundamentals/
+- Ethics
+    - https://www.future-ethics.com/
+    - https://muledesign.com/2017/07/a-designers-code-of-ethics
+    - https://www.youtube.com/watch?v=DfxMv9mIjFU&t=381s
+    - https://vimeo.com/122022963
+    - https://vimeo.com/268704084
+    - https://www.youtube.com/watch?v=X24twMoJYt4&
+    - https://weaponsofmathdestructionbook.com/
+- Design Systems
+    - https://uxdesign.cc/building-a-design-system-where-to-start-part-1-first-things-first-57577153ae2d
+    - https://www.uxpin.com/create-design-system-guide
+    - https://hackernoon.com/how-to-build-a-design-system-8574fbe93734
+    - https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421
+    - https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71
+    - https://thibault.mahe.io/blog/design-tokens
+    - https://thibault.mahe.io/talks/design-tokens/#19
+    - https://matthewstrom.com/writing/design-apis/
+- https://uxplanet.org/30-best-online-course-websites-to-learn-ui-ux-updated-46df2628e6ba
+- https://www.quora.com/What-are-the-best-resources-for-learning-bleeding-edge-web-UI-and-UX-design
+- Heuristics
+    - https://a11y-with-lindsey.ck.page/products/pre-order-the-bootcampers-guide-to-web
+- Resources
+    - Books
+        - [Front End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+        - [Smashing Magazine - Comprehensive Guide to Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/)
+        - [Awwwards - 10 Vital Books for Web Designers and Developers](https://www.awwwards.com/10-vital-books-for-web-designers-and-developers.html)
+        - [Smashing Magazine - UX Design Process](https://www.smashingmagazine.com/ebooks/ux-design-process/)
+        - [Comprehensive Website Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/)
+    - Inspiration
+        - http://www.species-in-pieces.com/#
+    - Lists
+        - Front End Bookmarks - dypsilon
+            - https://github.com/dypsilon/frontend-dev-bookmarks
+        - Front End Development Guide for Large Teams - Free Code Camp
+            - https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
+    - Photos
+        - [Startup Stock Photos (FREE)](http://startupstockphotos.com/)
+        - [Undraw](https://undraw.co/) (Free SVG Illustrations with a theme picker)
+    - Sandboxes
+        - [Code Sandbox (React, Vue, Angular)](https://codesandbox.io/)
+        - [Stackblitz (Angular, React, Ionic)](https://stackblitz.com/)
+    - Tools
+        - Prototyping
+            - [Figma](https://www.figma.com)
+- Design Process
+    - Steps
+        - Research & Discovery
+            - [User Research](https://theuxreview.co.uk/user-research-the-beginners-guide/)
+            - [Google Analytics](https://theuxreview.co.uk/google-analytics-the-beginners-guide/)
+            - [User interviews](https://theuxreview.co.uk/user-interviews-the-beginners-guide/)
+            - [Persona](https://theuxreview.co.uk/personas-the-beginners-guide/)
+            - User Journeys
+                - What is a User Journey?
+                    - Refers to the scenarios in which the user interacts with the product
+                    - normally the scenarios consist of between 4 and 12 steps.
+                    - Its function is mainly to assume and demonstrate the current and possible way in which the user can interact with the product.
+                - User Journey vs. User Flow
+                    - User Journey
+                        - focuses on the UX of the entire process
+                        - considers all stages from discovery of the product to completion of goal
+                    - User Flow
+                        - focuses on the individual stages of using the product.
+                        - takes place entirely within the product
+                - References
+                    - [User Journey - The Beginner's Guide](https://theuxreview.co.uk/user-journeys-beginners-guide/)
+                    - [User Journey vs. User Flow - Mockplus](https://www.mockplus.com/blog/post/user-journey-vs-user-flow)
+        - Conceptual Design & Iteration
+            - Site Maps
+                - What is a Site Map?
+                    - Gives you a visual representation of the product's organization and how different sections are linked together.
+                    - Made up of sections containing other sections or content nodes, which make up an atomic unit of content.
+                - Why make sitemaps?
+                    - They show how the navigation should be structured
+                    - They help identify where content will sit and what needs to be produced
+                    - They help show the relationship between different pages
+                    - Validate assumptions about scope and complexity, and provide a structure upon which to begin estimates for development
+                    - They are the first tangible deliverable showing what you will be creating
+                    - Allow stakeholders to confirm the direction of the product and that goals are being represented
+                - Creating sitemaps
+                    - Process
+                        - identify the entry point
+                        - Use sticky notes and list all categories and subcategories, based on your feature list or requirements.
+                        - Start moving sticky notes around and create groups of categories and sub categories, think about the labeling from your users perspective.
+                        - Create visual representation on paper or in sketch
+                        - Test your sitemap with your users using [card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html) technique to ensure that your sitemap will be findable and usable.
+                    - Tips
+                        - Make sure that all sub-sections and sub-pages are present
+                        - Include clear expression of primary navigation
+                - References
+                    - [Site Maps - The Beginner's Guide](https://theuxreview.co.uk/sitemaps-the-beginners-guide/)
+            - [Wireframes](https://theuxreview.co.uk/wireframes-beginners-guide/)
+            - [Prototypes](https://theuxreview.co.uk/prototypes-the-beginners-guide/)
+    - Basic
+        1. Sketch
+        2. Wireframe
+        3. Lo-Fidelity Prototype
+        4. Hi-Fidelity Mockup
+        5. Hi-Fidelity Prototype (Rapid)
+        6. Code
+    - UX Process
+        - User Flow
+    - How to write a UX proposal
+        - What is a proposal?
+            - Document that outlines a UX
+            - What is the problem? And how will it be solved digitally?
+            - Sets expectation of work, milestones, timelines
+        - Structure
+            - Beginning should state the reason for the project
+                - Should note any user research, testing, or interviews that will be a necessary part of the scope of the project
+            - Project Development
+                - Provide a breakdown of the intended scope of the work and recommended services you can provide
+    - [Following a web design process - Smashing Mag](https://www.smashingmagazine.com/2011/06/following-a-web-design-process/)
+    - [Efficient Responsive Design Process](https://www.smashingmagazine.com/2016/02/efficient-responsive-design-process/)
+- Information Architecture
+    - What is IA?
+        - _The art and science of organizing and labeling websites, intranets, online communities, and software to support findability and usability._ — The Information Architecture Institute
+        - Donna Spencer
+            1. Organizing content or objects.
+            2. Describing them clearly.
+            3. Providing ways for people to get to them.
+    - IA vs. User Flow
+        - IA improves **Findability**, User Flow improves **Intuitiveness**
+        - In **content-focused** projects, IA is more important, whereas in **interaction-focused** projects, User Flow is more important.
+    - Deliverables
+        - [User Flows](https://dynalist.io/d/b6UNZqlwC5YtebEJlIWQjtNP#z=dwFms7wi3HueGHOCEpSO8ODG)
+            - big picture view of your product
+        - [Site Maps](https://dynalist.io/d/b6UNZqlwC5YtebEJlIWQjtNP#z=tcwMsyM67gC2OLDyhwmoLHHP)
+            - the structure of pages on your product
+- User Flow
+    - What is user flow
+        - The steps that your user will take in order to achieve a certain goal using your product.
+        - starts with a goal the user can achieve while using your product and ends when the user successfully achieved this goal
+        - Consists of:
+            - ![](https://cdn-images-1.medium.com/max/1600/1*8l2V2KDmfXVoDOjfRa5PzQ.png)
+            - a number of steps each with
+                - a view (What the user sees)
+                - a number of actions (What the user can do).
+    - Place in design process
+        - User flows should be written before designing interfaces
+    - Writing user flows
+        - focus on listing the actions that can be done in a certain view without thinking of their layout or look.
+        - Your user flow must have first a goal that the user will achieve
+        - Steps
+            1. Identify the goal that your user needs to achieve.
+            2. Begin with the first step (Entry point(s)) 
+            3. Continue moving step by step until achieving the user goal.
+- Wireframes
+    - Purpose of a wireframe
+        - Show the content and functionality of the pages before any furhter designs
+        - Help designer communicate with client about design concept
+        - Establish information hierarchy
+    - Elements of a wireframe
+        - Information design
+            - Design of main information, outlining structure and layout
+        - Navigation design
+            - Design of global and secondary navigation
+        - Interface design
+            - Design of visuals and user interface
+    - Why wireframe
+        - Much easier to understand than abstract concept design
+        - Can be used to receive feedback
+            - Makes design process iterative
+        - Help define website features
+            - Ensures page content and functionality are designed based on business needs
+        - Fast to build and low cost
+    - Wireframe process
+        - Start with a physical sketch
+        - Use black sharpie pen for lines, colored sharpie pen for shading, and highlighter for accent colors
+        - Use placeholders instead of real UI elements
+        - Annotate your wireframes
+        - Record wireframes by taking a picture of them and storing them digitally

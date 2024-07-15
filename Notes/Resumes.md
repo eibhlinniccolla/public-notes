@@ -1,0 +1,101 @@
+- Sections
+    - Contact info
+    - Professional Summary
+        - Ask not what the company can do for you, but what you can do for the company.
+        - Do your research and identify high-priority needs of the company, and mention how you plan to address them through the skills that you possess.
+        - Don't include a detailed list of technical proficiency
+        - Give a bird’s-eye view of your professional career, it should be a reason for the recruiter to continue with the rest of your Ré­su­mé.
+        - Highlight your achievements
+    - Key Skills (Technical + Managerial)
+        - Technical Skills
+            - Assign subheadings to skills to make it easier to find what you're looking for
+                - **Web Frameworks & Technologies:** Angular 4, HTML5, CSS3.0, Kendo UI, PHP
+        - Managerial Skills
+            - Prioritize hard, professional skills over soft skills like ‘communication’ and ‘self-motivation.’
+            - “Show, Don’t Tell.” It’s always better if you are able to substantiate the skills that you mention with concrete points down below.
+            - Examples:
+                - Front-End Development
+                - Agile Methodology
+                - Code Optimization
+                - Documentation & Reporting
+                - Requirement Gathering
+                - UI Enhancement
+                - Module Management
+                - Issue Resolution
+                - Stakeholder Management
+                - Client Relationship Management
+                - Project Management
+                - Team Leadership
+            - Mention only those skills which you can elucidate in your ré­su­mé.
+            - Use the job description to identify managerial skills that are relevant to include.
+    - Professional Experience
+        - Make a master CV
+            - A list of literally everything that you have ever done to date.
+            - There’s no need to structure it or keep it to two pages
+            - It can be a 10-page long list of bullet points consisting of every achievement in your entire life, or it can be full of deathly long paragraphs.
+            - The idea is to keep a single document containing all your achievements, and regularly updating it.
+            - Scan your masterCV for points which can be interpreted and rephrased along the lines of what the recruiter is looking for.
+        - Use the [Princeton Formula](https://careerservices.princeton.edu/sites/career/files/Resume%20and%20cover%20letter%20guide.pdf)
+            - Action Verb + Project + Result = Accomplishment
+            - detail the quantifiable impact of your achievements
+            - This makes you someone who took ownership of their responsibilities and delivered an impact at the macro level.
+        - Use subheadings / buckets
+            - Arrange all the points into buckets or sub-headings so the recruiter won’t have to go through the individual points
+            - Examples
+                - Team Management & Leadership
+                - Library Management & Process Optimization
+                - Key Achievements
+        - **Bold** relevant words and phrases
+        - How to make up for lack of experience
+            - Include projects for which you freelanced in your career till date
+            - Bolster your Github profile and code that you’ve posted there
+            - Include all open-source projects you have contributed to
+            - Mention any hackathons or local developer meetups in which you participated or helped organize
+    - Education
+    - Projects
+        - Environment subheading which lists technologies used (broken into subheadings if necessary)
+        - Description of company/client showcasing they are a reputable company (include figures like employees, revenue if necessary)
+        - Location and time period aligned right, company and project title aligned left
+        - Add subheadings for skills and methodologies the recruiter is looking for and phrase your points to include those skills
+        - Reserve a 'Key Achievements' section for quantifiable impact to showcase depth of contribution
+    - Interests, Hobbies, Extra-curricular achievements (Optional)
+        - Stay relevant
+        - Quantify your interests and hobbies, give an idea to the recruiter as to what that hobby means to you
+    - Extra: Social profiles
+- Layouts
+    - Reverse Chronological (Best)
+        - starts off by listing your current or last-held profile and continues from there until you reach the part about your ‘Education.’
+        - Pros
+            - ATS-Friendly
+            - Emphasizes current work & achievements
+            - easy to create
+            - considered the standard
+        - Cons
+            - Frequently switching jobs is more obvious
+            - No way to hide career gaps
+    - Functional
+        - Lists the companies where you worked at without diving into the details of your actual work profile. Instead, you create a separate section in which you group all your points under relevant skills.
+        - Pros
+            - Can hide gaps in career trajectory
+        - Cons
+            - Merely hides the gaps, they'll show up eventually
+            - Doesn't allow a recruiter to see how you grew to be where you are
+    - Hybrid
+        - Similar to the reverse-chronological format apart from the fact that in the ‘Professional Experience’ section, the points are grouped by the skills that they represent.
+        - Pros
+            - Allows the recruiter to scan relevant points only based on the skills they are looking for.
+- ATS (Applicant Tracking Systems)
+    - Use [Jobscan](https://www.jobscan.co/) to figure out how well your resume will score
+    - Scan the JD to get a list of keywords which are important to the company
+    - paste the entire JD in a [word cloud](http://www.wordle.net/create) which analyses the frequency of words used in a text.
+    - Incorporate those keywords in an organic manner
+    - Don't compromise meaning or authenticity at the cost of ATS optimization.
+- **Make the recruiter's life easier and it will pay off!**
+- Your ré­su­mé should look like it’s in response to the JD, that you possess the ability to resolve all the issues which are inherently mentioned in that document.
+- It’s always better if the entire ré­su­mé is in third-person — that means no references to ‘I’, ‘me’ or ‘mine.’ It’s always ‘possessing a track record,’ not ‘I possess a track record.’
+- Make sure relevant stuff is listed first, skills etc. Things you want to highlight should be first
+- Tweak your résumé for the job you're applying for
+- Recruiters almost always ask for a Word copy so they can remove your contact information and put their logo on it
+- Don't put Udemy courses on your résumé, but certifications are good
+- Don’t put the year you graduated college
+- Only put RELEVANT job experience

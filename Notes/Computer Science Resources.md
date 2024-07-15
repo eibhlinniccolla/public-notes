@@ -1,0 +1,31 @@
+- Read essential engineering books
+    - The Imposter's Handbook: A Primer for Self-Taught Programmers
+    - Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. "Uncle Bob" Martin
+    - The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and Dave Thomas
+    - Code Complete: A Practical Handbook of Software Construction by Steve McConnell
+    - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, and Ralph Johnson
+    - Refactoring: Improving the Design of Existing Code by Martin Fowler
+    - The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks
+    - Working Effectively with Legacy Code by Michael Feathers
+    - Programming Pearls by Jon Bentley
+    - Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister
+    - Soft Skills: The Software Developer's Life Manual by John Sonmez
+    - The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. "Uncle Bob" Martin
+    - Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
+    - Agile Software Development: Principles, Patterns, and Practices by Robert C. "Uncle Bob" Martin
+    - The Art of Computer Programming by Donald Knuth
+    - Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. "Uncle Bob" Martin
+    - Patterns of Enterprise Application Architecture by Martin Fowler
+    - [Structure and Interpretation of Computer Programs](http://amzn.to/2sQcsZl)
+    - Head First Design Patterns
+- Learn CS Fundamentals #project-management/goal
+    - CODE: The Hidden Language of Computer Hardware and Software by Charles Petzold
+    - https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/
+    - https://ocw.mit.edu/courses/audio-video-courses/#electrical-engineering-and-computer-science
+    - https://www.youtube.com/user/UNSWelearning
+    - Four Semesters of Computer Science in 5 Hours
+    - A Practical Guide to Algorithms with JavaScript
+    - Introduction to Data Structures for Interviews
+    - Four Semesters of Computer Science in 5 Hours, Part 2
+    - Tree and Graph Data Structures
+    - Book: Structure and Interpretation of computer programs by Harold Abelson

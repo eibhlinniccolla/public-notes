@@ -1,0 +1,6 @@
+- `lazy`
+    - instead of ```import MyComponent from "./path/to/file"```
+    - use ```var MyComponent = lazy(() => import("./path/to/file"));```
+- `Suspense`
+    - https://css-tricks.com/react-suspense-in-practice/
+    - provides fallback markup for if anything inside of `<Suspsense>` is being imported

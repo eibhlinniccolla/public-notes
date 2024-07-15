@@ -1,0 +1,17 @@
+- Sources
+    - https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17
+    - https://auth0.com/blog/a-brief-history-of-javascript/
+    - https://www.coursereport.com/blog/history-of-javascript
+    - https://www.springboard.com/blog/history-of-javascript/
+    - https://en.wikipedia.org/wiki/JavaScript
+    - https://www.checkmarx.com/blog/javascript-history-infographic/
+    - https://blog.bitsrc.io/a-brief-history-of-javascript-from-netscape-to-frameworks-74bf4774eeef
+    - https://2ality.com/2011/03/javascript-how-it-all-began.html
+    - https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb
+    - https://www.youtube.com/watch?v=NQUjEo9iqfo
+    - https://www.youtube.com/watch?v=CseCDFed458
+    - https://www.youtube.com/watch?v=EUAmiIsp2YU
+    - https://www.youtube.com/watch?v=FSs_JYwnAdI
+    - https://www.youtube.com/watch?v=JpwxjkpZfhY
+    - https://www.youtube.com/watch?v=3-9fnjzmXWA
+    - https://www.youtube.com/watch?v=Sh6lK57Cuk4

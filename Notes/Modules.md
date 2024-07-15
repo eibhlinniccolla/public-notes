@@ -1,0 +1,3 @@
+- CommonJS
+- ES6
+- [UMD](https://github.com/umdjs/umd)

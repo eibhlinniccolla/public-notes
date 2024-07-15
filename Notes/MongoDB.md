@@ -1,0 +1,7 @@
+- Outline
+    - MongoDB Basics #project-management/goal
+- Notes
+- Resources
+    - Courses
+        - [FEM] Introduction to MongoDB
+        - [Udemy] [MongoDB - The Complete Developer's Guide 2020](https://www.udemy.com/course/mongodb-the-complete-developers-guide)

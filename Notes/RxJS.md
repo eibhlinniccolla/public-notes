@@ -1,0 +1,14 @@
+- RxJS From Scratch
+    - Reactive Extensions
+    - Origin of the pattern
+    - What is an Observable
+    - Building an Observable from scratch
+    - Operators
+    - Subjects
+    - Hot vs. Cold Observables
+    - Using RxJS with Node.js
+    - https://xgrommx.github.io/rx-book/index.html
+    - https://dzone.com/articles/using-node-117-worker-threads-with-rxjs-observable
+    - https://www.freecodecamp.org/news/rxjs-and-node-8f4e0acebc7c/
+    - https://stackoverflow.com/questions/36639493/how-to-use-rxjs-mysql-and-nodejs
+    - http://blog.shaunxu.me/2017-01-21-try-rxjs-in-nodejs/

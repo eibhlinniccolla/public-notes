@@ -1,0 +1,3 @@
+- **Lexical Scope** or **Static Scope** means that the variables available to a function and prioritization at function execution are determined by where a function is **declared**, _not_ where it is executed
+- In a lexically scoped language (like JavaScript), all of the scopes and identifiers are determined at **compile/parse** time, **not** at runtime
+    - Nothing can occur at runtime that changes the scope where an identifier is located

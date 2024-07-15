@@ -1,0 +1,13 @@
+---
+published: true
+---
+- the `render()` method of a class component, or the return of a functional component, does not actually render to the real DOM
+- If a prop or state changed, React makes a comparison between the old virtual DOM with a new, re-rendered virtual DOM
+- (Virtual DOMs are DOM representations in JavaScript, which are faster to compare than actually painting to the screen)
+- React always maintains 2 copies of the virtual DOM, the current one and the re-rendered one
+- If any differences are found, it reaches out to the real DOM and updates it in the places where differences were detected
+- If no differences are found, the real DOM is left untouched, although the newly re-rendered virtual DOM is still stored
+- Synthetic events
+    - DOM events are not actually native DOM events, but "synthetic" events created by react
+    - These events are reused across renders
+    - The issue with this is that if you are doing an asynchronous state update inside `useState` with a function that closes over the event object, that event object can change in between the time when the function was defined and when it is actually called.

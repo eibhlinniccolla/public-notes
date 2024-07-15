@@ -1,0 +1,4 @@
+- Outline
+- Resources
+    - Egghead: Web Security Essentials: MITM, CSRF, and XSS
+    - Frontend Masters: [Web Security](https://frontendmasters.com/courses/web-security/)

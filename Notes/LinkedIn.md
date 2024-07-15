@@ -1,0 +1,98 @@
+- Connections
+- General
+    - Your goals with LinkedIn are to:
+        - Show up in a search with the right keywords
+        - Stand out in search results
+        - Signal that you are qualified and motivated
+    - keep in mind the 3-30-180 rule
+        - Recruiters take 3 seconds to decide whether to stay on your profile
+        - 30 seconds for the first read
+        - 180 seconds to decide on whether to contact you.
+    - Get your profile to 100%
+        - Profile picture
+        - Location and industry
+        - Experience (a current position, with a brief description, plus two previous positions)
+        - Skills (at least three)
+        - Education
+        - At least 50 connections
+    - Keywords are _really_ important
+        - emphasize the specific things you want to work with, such as particular languages and frameworks.
+        - remove skills and technologies you are not interested in working with. Or at least de-emphasize them.
+    - Order your sections to draw attention to your most impressive experience
+    - Hide the “People Also Viewed” box on your sidebar
+    - join “Groups” and follow “Companies” that peak your interests
+    - Your profile should embody more than just the work you have done, but also, the multifaceted portrait of your professional ambitions, passions, and unique talents.
+- Cover Photo
+    - GREAT:
+        - Landscape photography
+        - A clean picture of your office building or city
+        - Industry related: Art for artists, CPUs for hardware engineers, solar panels for clean energy professionals
+    - BAD:
+        - Abstract, colorful art that might be perceived as tacky (if you’re not an artist)
+        - Low-resolution photography of anything
+        - Your office if it’s dull and grey
+        - Your workstation
+- Profile Picture
+    - Pick a picture where you’re smiling or laughing.
+    - 60% or more of the photo should be your face.
+    - Professional is good, but a dark grey background is boring. Don’t be afraid to show off your personality a little while keeping things professional.
+    - Don’t cover your eyes with sunglasses
+- Headline
+    - Add Your Specialty
+        - To jazz up your headline, weave in your specialty.
+    - Incorporate Your Future Job
+        - To show up higher in relevant searches, add the job you want, not the job you have.
+    - Include What You Do
+        - Highlight your professional value by incorporating how you make an impact. 
+    - Show Off Your Accolades
+        - People will both impressed and intrigued by a headline that name drops. (Yes, name-dropping is totally OK in this situation.)
+- Summary section
+    - This should be in paragraph form – 3 paragraphs or less.
+    - The summary tells the story of who you are – so use this blank space as a chance to highlight your resume and provide insight into your aspirations.
+    - Include a call-to-action
+        - The best place to do this is in the summary section.
+        - Here are some examples of a CTA you can use:
+            - Feel free to contact me directly at name@example.com.
+            - Check out some of my design samples at portfolioname.com.
+            - See my Github repositories at mygithubprofile.com.
+    - Show personality and write in 1st person.
+    - Tell a story in reverse chronological order. Begin with who you are now, including ambition.
+    - Hit the keywords that are important: skills, tools, processes, etc.
+    - At the end add links to your website/blog/projects/etc.
+    - Find a way to make sure the first couple of lines make someone wanna read the rest and click read more
+- Skills
+    - Be direct and avoiding redundancy.
+    - Organize your top 3 skills to highlight your expertise and direction -- do not just default to the top skills your friends endorsed you for.
+    - Once you’ve organized your top 3 skills, ask friends to endorse you for them. Just send a simple message on Facebook or a text message. Be wary that doing this process with co-workers may make them feel you’re about to leave your company.
+- Education
+    - You only need to include high school if you’re under 20 years old and have no college experience.
+    - Extracurricular activities are a nice to have. If you’re already an experienced professional, they won’t matter unless the activity is in your industry.
+    - Remove the year you graduated from college
+- Experience
+    -  Highlight transferable skills
+        - Communication skills, which can include writing, negotiating, presenting, and teaching/mentoring.
+        - Teamwork or collaboration. Show you know this by mentioning collaboration tools you’ve used, give examples of ways you’ve worked with clients or teams, etc.
+        - Planning and organization skills mean you are organized in thought, communication, and workflow. Demonstrate this by showing processes you’ve developed.
+        - Ability to manage multiple responsibilities means you can multitask without getting stressed, rank your priorities, and stay disciplined.
+        - Problem-solving skills means you can troubleshoot issues in new ways.
+    - this isn’t about telling people about everything you’ve done. It’s about highlighting your most impressive accomplishments.
+    - Stick to writing in mostly bullet points. A brief overview before bullet points is ok.
+    - Keep each bullet point to 1-2 sentences, and keep them short.
+    - Write sentences in the RMAC or ACR format “[ACTION] on [CONTEXT], resulting in [RESULT]”
+    - When a [RESULT] can contain a metric or number that makes sense, use it. This may take research -- but it’s worth it. If you can’t think of an improvement metric, you can always talk about time, ie “Retrofitted multi-million dollar kitchen with modern IoT technology in just 3 days, saving the customer 40% compared to competition.”
+    - For your current job, aim for 5-7 bullet points. For past experience, 3-5 is ideal. People don’t want to read a book.
+    - Try to avoid:
+        - Large paragraphs of text
+        - Hashtags -- this isn’t Twitter
+        - Talking poorly about any past jobs
+- Recommendations
+    - If you have more than a year of work experience, you need a recommendation -- even if you’re a student, it’s smart to get a recommendation from a fellow classmate.
+    - When you ask friends, co-workers, or past co-workers for a recommendation, make sure they know your goals and ambition.
+    - Once you hit 2 recommendations, you don’t need many more. The more, the better, but quality is everything.
+    - If you get a recommendation that you feel is of low quality, choose to hide it. Don’t worry about your friend’s feelings -- mediocre reviews will hurt you.
+    - Ask people to highlight skills you want to focus on in their recommendations
+- Projects
+    - Show examples of your work
+    - Show the process from idea to draft to finished product, or describe this process
+- Interests
+    - follow influencers and companies in your industry, and then not dilute them too much with groups that don’t fit your background.

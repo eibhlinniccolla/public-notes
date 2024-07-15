@@ -1,0 +1,224 @@
+- Articles
+    - [Creative Bloq: Freelance Survival Guide](https://www.creativebloq.com/advice/the-freelance-survival-guide)
+- Blogs
+    - Kalzumeus
+        - Don't Call Yourself A Programmer, And Other Career Advice
+            - https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
+        - Salary Negotiation: Make More Money, Be More Valued
+            - https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+        - Running A Software Business On 5 Hours A Week
+            - https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/
+    - freeCodeCamp
+        - Every developer should have a blog. Here’s why, and how to stick with it.
+            - https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf
+- Podcasts
+    - Talking Code
+        - How to go from being a junior developer to a senior one
+            - http://talkingcode.com/podcast/episode-20-ben-orenstein/
+- Books
+    - Code Complete (2nd edition) by Steve McConnell
+    - The Pragmatic Programmer
+    - Structure and Interpretation of Computer Programs
+    - Introduction to Algorithms by Cormen, Leiserson, Rivest & Stein
+    - Design Patterns by the Gang of Four
+    - Refactoring: Improving the Design of Existing Code
+    - The Mythical Man Month
+    - The Art of Computer Programming by Donald Knuth
+    - Compilers: Principles, Techniques and Tools by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
+    - CODE by Charles Petzold
+    - Programming Pearls by Jon Bentley
+    - Working Effectively with Legacy Code by Michael C. Feathers
+    - Peopleware by Demarco and Lister
+    - Coders at Work by Peter Seibel
+    - Surely You're Joking, Mr. Feynman!
+    - Patterns of Enterprise Application Architecture by Martin Fowler
+    - The Little Schemer
+    - The Seasoned Schemer
+    - Why's (Poignant) Guide to Ruby
+    - The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity
+    - The Art of Unix Programming
+    - Test-Driven Development: By Example by Kent Beck
+    - Don't Make Me Think
+    - Domain Driven Designs by Eric Evans
+    - The Design of Everyday Things by Donald Norman
+    - Best Software Writing I by Joel Spolsky
+    - The Practice of Programming by Kernighan and Pike
+    - Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+    - Software Estimation: Demystifying the Black Art by Steve McConnel
+    - The Passionate Programmer (My Job Went To India) by Chad Fowler
+    - Hackers: Heroes of the Computer Revolution
+    - Algorithms + Data Structures = Programs
+    - Writing Solid Code
+    - Getting Real by 37 Signals
+    - Foundations of Programming by Karl Seguin
+    - Computer Graphics: Principles and Practice in C (2nd Edition)
+    - The Elements of Computing Systems
+    - Refactoring to Patterns by Joshua Kerievsky
+    - Modern Operating Systems by Andrew S. Tanenbaum
+    - The Annotated Turing
+    - Things That Make Us Smart by Donald Norman
+    - The Timeless Way of Building by Christopher Alexander
+    - The Deadline: A Novel About Project Management by Tom DeMarco
+    - Patterns of Enterprise Application Architecture
+    - Computer Systems - A Programmer's Perspective
+    - Growing Object-Oriented Software, Guided by Tests
+    - Framework Design Guidelines by Brad Abrams
+    - Object Thinking by Dr. David West
+    - Advanced Programming in the UNIX Environment by W. Richard Stevens
+    - Hackers and Painters: Big Ideas from the Computer Age
+    - The Soul of a New Machine by Tracy Kidder
+    - CLR via C# by Jeffrey Richter
+    - The Timeless Way of Building by Christopher Alexander
+    - Design Patterns in C# by Steve Metsker
+    - Alice in Wonderland by Lewis Carol
+    - Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+    - About Face - The Essentials of Interaction Design
+    - Here Comes Everybody: The Power of Organizing Without Organizations by Clay Shirky
+    - The Tao of Programming
+    - Computational Beauty of Nature
+    - Writing Solid Code by Steve Maguire
+    - Philip and Alex's Guide to Web Publishing
+    - Object-Oriented Analysis and Design with Applications by Grady Booch
+    - Effective Java by Joshua Bloch
+    - Computability by N. J. Cutland
+    - Masterminds of Programming
+    - The Tao Te Ching
+    - The Productive Programmer
+    - The Art of Deception by Kevin Mitnick
+    - The Career Programmer: Guerilla Tactics for an Imperfect World by Christopher Duncan
+    - Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp
+    - Masters of Doom
+    - Pragmatic Unit Testing in C# with NUnit by Andy Hunt and Dave Thomas with Matt Hargett
+    - How To Solve It by George Polya
+    - The Alchemist by Paulo Coelho
+    - Smalltalk-80: The Language and its Implementation
+    - Writing Secure Code (2nd Edition) by Michael Howard
+    - Introduction to Functional Programming by Philip Wadler and Richard Bird
+    - No Bugs! by David Thielen
+    - Rework by Jason Freid and DHH
+    - JUnit in Action
+    - Coders at Work. Learn from other programmers in a book packed with interesting interviews. A really good starting point if you are curious about life as a programmer.
+    - The Pragmatic Programmer. Very informative, humorous and educational book, and gives a great deal of practical advise. This book will make you think instead of just following the rules.
+    - Code Complete 2. While this book will keep you occupied for many days, nights and weekends with it’s 900 pages, every page it contains is packed with information on how to become a better programmer. 900 pages you won’t regret.
+    - ~~JavaScript: The Good Parts. Javascript is a complex language with lots of little gotchas. This book is aimed at programmers with an intermediate experience who wants to know the best way to use the language. With a little over 170 pages, this book is a great read, and there’s no shame in skipping the really complex topics!~~
+    - Don’t Make Me Think Revisited. A commons sense approach to web and mobile design, with many interesting insight in colors, pageflows and professional web design, all in an easy to read cover. Opening this book will make you want to finish it non-stop!
+    - Programming Pearls. In computer time, this book is an ancient one, but a good one. After reading this book, you’ll be a better coder, guaranteed!
+    - Effective Java, Second Edition. This book is packed with tips on how to write better code, be it concurrency, serialization or other patterns to make your Java programs shine. Not a beginners book, but one for the programmer who has seen his share of code.
+    - Clean Code. A book written with Java examples, but applicable to almost all programming languages. This book focusses a lot on style, commenting, and good program organisation and will guide you step by step into a becoming a master programmer!
+    - Introduction to Algorithms. Not a programming book, but a book to read nonetheless. While the book is called ‘Introduction’, don’t underestimate it’s level because it will hurt your brain for sure!
+    - Design Patterns. Another classic, which contains a huge collection of programming patterns. It’s a very dry book, and most people won’t be able to finish it, but if you even finish 10% of the book, it’s already a worthwhile exercise!
+- Career
+    - Job Hunting
+        - 90% of jobs are in business software
+            - most software is boring, simple, one-off pieces of software which solve business problems, and either bring the company revenue or save the company costs.
+            - It is unlikely that you will work on a piece of software that gets used by clients unless you _work to make it happen._
+        - Don't call yourself a _programmer_
+            - Describe yourself by what you have accomplished for previous employers (_vis-à-vis_ reducing cost and increasing revenue)
+            - If you haven't done that yet, describe things which suggest you have the ability to do so, or ideas for how.
+        - You are not defined by your software stack
+            - by defining yourself as a .NET developer, or a Java developer, you're disqualifying yourself for most jobs.
+            - If someone is looking for someone to make them money, your experience with the technology will not be held against you. If you're a good developer, they'll hire you anyway.
+            - You ARE defined by your ability to _add revenue and reduce cost._
+            - Picking up new technologies is easy
+                - Either spend a few nights and weekends learning it or
+                - Control the technology use at your current job to advance your career
+                    - Implement one-off projects using the desired tech
+        - Don't be the first employee of a startup, be the last cofounder instead.
+        - Engineers are hired to create business value, not program things
+            - Add revenue, reduce cost. Those are your only goals.
+            - There are cost centers and profit centers. Aka those that bring in dollars, and everyone else. You want to be attached to profit centers.
+        - Read ad, send resume, get interview, get offer is the _exception_ not the rule
+            - Most jobs are not available publicly (especially the ones you _want_)
+                - If they were, they'd be spammed by stunningly inappropriate candidates.
+            - The way to get jobs is to know the decision maker, or know someone that knows them.
+    - Ethics
+        - Software developers are in the business of unemploying people.
+            - Manhours that you save the company are manhours someone else doesn't get paid for.
+        - Co-workers and bosses are usually not your friends
+            - Hiring managers, bosses, and coworkers are, first and foremost, looking out for their own self-interest.
+            - They will do things (perfectly ethically) that your friends would not do.
+            - Your relationship to them is most often one of a _transaction_.
+    - Networking
+        - Go to (the right) events
+            - Identify who you want to meet and why
+        - Give clients something to talk about
+            - Exceed expectations
+            - ensure your clients know when and how to get in touch with you
+            - arrange regular catch-up meetings
+            - always be proactive with ideas to improve a project – or even a client’s wider business.
+        - Exhibit your work
+            - Participate in exhibitions, or stage one of your own
+        - Make a good first impression
+            - Focus on building relationships, not the hard sell
+            - Listen as much as you talk, make eye contact, and smile
+            - Bring your business cards
+        - Speak at events
+        - Help people
+            - If you can't help them, recommend someone who can
+        - Meet people in real life.
+    - Freelancing
+        - Sales funnel
+            - How to write a cold outreach email
+                - Make the subject more personal, use the person’s name and what they require.  
+                    “[Name], I’d like to help you [Do whatever is it you want to do]”
+                - Research the client for your introduction to your email
+                    - Include specific information about the client and the problems they’re trying to solve.
+                - Talk about yourself in relation to the problem the client has.
+                - Explain what you’ll do to solve their problems, be relevant.
+                - Always connect the skills, and attributes, that you have to the solution that you’re pitching
+                - Don’t try for the hard sell.
+                - Don’t make the client think or work too much. Aim to receive a simple “yes” or “no” as your answer.
+            - How to find leads
+                - [Workshop](http://letsworkshop.com/)
+                - Members-only job boards
+                    - [Ooomf](https://ooomf.com/)
+                    - [Juiiicy.com](https://juiiicy.com/)
+                    - [Folyo](http://www.folyo.me/)
+            - Keep a spreadsheet of leads
+                - contact details
+                - services that the client is looking for
+                - responses
+                - how and when to follow up
+            - Following up
+                - Don’t let communication end when you deliver a project and the client signs off.
+        - Billing
+            - Invoice
+                - Due Date (net 30 or 60)
+        - When to fire a client
+            - Failure to pay
+                - Be straightforward about billing and payments. Let the client know that there is an expectation that you will be paid on time. Late payments will result in late fees, and if payments are missed you will not work with them moving forward. (Be ready to provide a statement of billing dates and payments to back up your case if necessary.)
+            - Consistent Scope Creep
+                - Have conversation with client, let them know they aren’t paying you fairly and are getting services for free.
+                - If that fails, slowly price them out. Charge for all the extra revisions and work, don't give anything away for free.
+            - Difference in design style / philosophy
+                - Be honest and say you're not a good fit. Try to recommend / connect them with designers that are more of a fit.
+                - Reiterate what you do and could do well for them in the future.
+            - Unethical or abusive client
+                - Keep a paper trail of requests, responses to client, abusive emails or communication.
+                - Provide succinct and terse termination.
+                - Don't put blame on the client or over-explain.
+                - Offer a refund for incomplete work that has been paid for.
+            - You hate the work
+                - Explain that their needs are outside of your wheelhouse.
+                - Give them a transition period of one to two months to find a new designer, try to make a referral.
+- Freelancing
+    - Search for Jobs
+        - [UpWork](http://www.upwork.com/)
+        - [Working Nomads](http://www.workingnomads.co/)
+        - [WeWorkRemotely](https://weworkremotely.com/)
+        - [Stacks Careers](http://careers.stackoverflow.com/jobs/remote)
+        - [Toptal](http://www.toptal.com/)
+        - [Escape the City](http://www.escapethecity.org/)
+        - [NoDesk](http://nodesk.co/)
+        - [RemoteOK](https://remoteok.io/)
+        - [Freelance Writing Gigs](http://www.freelancewritinggigs.com/)
+        - [FlexJobs](http://www.flexjobs.com/)
+        - [Fiverr](http://www.fiverr.com/)
+        - [Behance](https://www.behance.net/joblist)
+    - [Wanderful World](http://www.wanderful-world.com/)
+    - [The Write Life](http://thewritelife.com/)
+    - [20 Ways to Find Freelance Writing Jobs](http://elnacain.com/blog/20-ways-find-freelance-writing-jobs/)
+    - [16 Facebook Groups for Creative Freelancers, Bloggers, & Entrepreneurs](http://www.carrieloves.com/2015/09/16-facebook-groups-for-creative-freelancers-bloggers-entrepreneurs/)
+    - [Breaking the Time Barrier](https://www.freshbooks.com/ebooks/breaking-the-time-barrier)
+
+[[Getting a Software Engineering Job, v2]]

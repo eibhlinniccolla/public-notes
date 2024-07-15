@@ -1,0 +1,4 @@
+- Images
+    - SVG
+        - just inline them
+        - if image has text, use `<img>` tag, and use [nano](https://vecta.io/nano) to embed fonts and reduce file size

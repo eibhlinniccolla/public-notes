@@ -1,0 +1,20 @@
+- Block, Element, Modifier
+- Differentiate classes that fulfill different roles by naming classes in a way that indicates role.
+- Complements OOCSS because OOCSS doesn’t impose any class-naming convention.
+- A block is an independent, modular UI component.
+    - May be composed of multiple HTML elements, or even multiple blocks.
+    - An example of a block might be your navigation menu or search form.
+- An element is a component of a block.
+    - Serves a singular purpose.
+    - If you have a navigation menu block, then elements of it might be your navigation menu’s links, which in turn might be in the form of list items (<li>) and links (<a>).
+- A modifier is a CSS class that changes the default presentation of a block or element.
+- class-naming syntax:
+    - .block
+    - .block--modifier
+    - .block__element
+    - .block__element--modifier
+- Naming convention helps authors comply with the OOCSS principle of using a flat selector hierarchy composed of equally-specific class selectors.
+- Also helps OOCSS authors avoid deep descendant selectors.
+- Criticisms
+    - class names can end up being long and ugly
+    - not intuitive to inexperienced developers

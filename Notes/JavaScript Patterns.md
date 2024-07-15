@@ -1,0 +1,18 @@
+---
+published: true
+---
+- OLOO pattern
+    - Prototypal Inheritance is actually "behvavior delegation"
+    - https://gist.github.com/getify/5572383
+    - https://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern
+    - https://gist.github.com/getify/d0cdddfa4673657a9941
+    - https://exceptionshub.com/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern.html
+    - https://www.quora.com/Is-OLOO-design-pattern-by-Kyle-Simpson-better-than-prototypal-inheritance
+    - https://en.wikipedia.org/wiki/Delegation_pattern
+- [Decorator](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript)
+- [Factory](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript)
+- [Singleton](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript)
+- [Revealing module](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+- [Facade](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript)
+- [Observer](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)
+- [MVC](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvc), [MVP](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvp), [MVVM](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvvm)

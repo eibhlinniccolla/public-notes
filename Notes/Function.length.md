@@ -1,0 +1,1 @@
+`Function.length` indicates the number of named [[Parameter|parameters]] expected by the function (i.e. it's [[Arity]]).

@@ -1,0 +1,169 @@
+- Resources
+    - Frontend Masters: Modern Search Engine Optimization (SEO)
+        - ~~Modern SEO #project-management/story~~
+        - ~~Traditional SEO Strategies #project-management/story~~
+            - Focus on **unique** and **targeted** content, using relevant keywords and terminology
+                - Things that will make you stand out from people using more common keywords
+            - Richness of content
+                - Including videos and images that increase the level of interaction with the user
+                - caveat: it is important to supplement videos and images with text, because we crawlers cannot analyze them to the same degree to determine what your site is about
+            - Frequent updates
+                - Updating content
+                - Updating links
+            - Link building
+                - You want important sites to link to your URL
+            - Keyword stuffing (used to work)
+            - Businesses with a physical location
+                - Fill out Google My Business page
+                - Ask for reviews (Facebook, Google) and display them on your website
+                - Submit your business to local directories
+                    - Chambers of Commerce
+                    - https://moz.com/products/local
+                    - Correct errors/outdated information in Local Citations
+                    - https://seo.co/local-seo/
+                    - Acquire local backlinks - vendors, partners, local NGOs etc
+                    - Set specific geographic-targeting in Google Search Console
+            - Page Rank
+                - The "quality" of a site is proportional to how many other sites link to it
+                - A link from a quality site is worth more
+                - Links from sites that frequently link to other sites are worth less, and vice versa
+                - It's better to have one domain that has many internal links than multiple domains that link to each other
+            - "Long Tail" keywords
+                - Avoid high-value keywords such as "diamond", "mortgage", "car donation" because there will be a lot of players in those spaces trying to edge each other out
+                - Focus on "high intent" keywords
+                    - e.g. "learn javascript" vs. "seo metadata video course"
+                - account for 70% of all searches
+                - because they're higher intent, they're inherently more likely to convert
+                - Allows you to filter down to people that know what they want
+            - Keyword tools
+                - https://www.wordtracker.com/
+                - https://www.semrush.com/
+                - https://ads.google.com/home/tools/keyword-planner/
+                    - Focus on
+                        - bids less than $10
+                        - low-competition
+                        - high avg. monthly searches
+                        - more likely to be high-intent/high-conversion
+                - https://trends.google.com/trends/?geo=US
+                    - You can use to find up-and-coming terms related to your specialization, good idea to find blog post ideas
+                - (Sneaky) You can use paid services to plan your keywords, then instead of paying, scrape their UI for all the keywords into a text file, then stick those keywords into title tags, links, descriptions in pages, etc.
+            - Linkbuilding Strategies
+                - Create "key pages" for popular products and services on your site
+                    - These should be canonical URLs, because links to other URLs with query params and such are counted as separate URLs
+                    - Never change these URLs
+                    - Over time, more people will link to them, increasing their relevance in the algorithm
+                    - A good example is "topic pages" on a blog
+                - **Link velocity** is the rate at which a page recieves new links over time
+                - Guest posts on quality sites
+                - Analyze competitors' link profiles and identify link opportunities
+                    - [SpyFu](https://www.spyfu.com/)
+                    - Figure out what keywords your competitors are targeting and target those same ones
+            - White Hat vs. Black Hat SEO
+                - **White Hat SEO** is good for humans
+                - **Black Hat SEO** is trying to outsmart the bots
+                - Focus on sustainable, organic growth
+                - If you are linked to by a black hat site
+                    - Contact the owners and ask for the link to be taken down
+                    - Disavow bad links using [Google Disavow Tool](https://support.google.com/webmasters/answer/2648487?hl=en) (Last Resort)
+                - Eliminate mutual 'link exchange' with other sites by adding `rel="nofollow"`
+                    - Informs the crawler that you are not lending credibility to or endorsing the site you're linking to, and it won't be taken into account
+                - Remove dead links
+                - If you find yourself being targeted by malicious reviewers or competators, take a measured, objective approach to responding to try to take the edge off of how that looks to other visitors to your site
+            - Ad Campaigns
+                - Ad campaigns don't work for every type of business
+                - Pricing
+                    - CPM - Cost per impression
+                        - Someone saw your ad
+                    - CPC - Cost per click
+                        - Someone saw your ad and clicked on it
+                    - CPA - Cost per action (conversion)
+                        - Someone saw your ad, clicked on it, and performed an action on your page
+                    - CPI - cost per install (mobile apps)
+        - Social Metadata #project-management/story
+            - Facebook OpenGraph
+                - `og:url`
+                    - Canonical URL
+                    - Desktop version (usually)
+                    - No session variables
+                    - No query params
+                    - Should NEVER have to be changed
+                - `og:type`
+                    - Impacts how your URL gets enriched in users media feeds
+                    - Defaults to `website`
+                    - Always supply an accurate type to ensure your data stays relevant as features are introduced
+                - `og:title`
+                    - Defaults to website's title in `<title>` tags
+                    - Good place to supply shorter version of title without redundant information
+                - `og:description`
+                    - Text is NOT enriched, so don't include links
+                - `og:image`
+                    - Cached for lifetime of image URL
+                    - Provide width and height for accurate first render  
+                        `<meta property="og:image:type" content="image/jpeg" />  
+                        <meta property="og:image:height" content="541" />  
+                        <meta property="og:image:width" conent="620" />`
+                    - Image size can change the way your URL is rendered!
+                    - Recommended minimum size: 1200x630
+            - Twitter Cards
+                - `twitter:card`
+                    - The card type, which will be one of “summary”, “summary_large_image”, “app”, or “player”.
+                    - Always go for the `summary_large_image` if you can, you'll get much more engagement with a larger image
+                - `twitter:site`
+                    - @username for the website used in the card footer.
+                    - Usually a business
+                - `twitter:creator`
+                    - @username for the content creator / author.
+                    - Usually for an individual
+                - `twitter:image`
+                    - A URL to a unique image representing the content of the page.
+                    - You should not use a generic image such as your website logo, author photo, or other image that spans multiple pages.
+                    - 150x150 for `summary`
+                    - 560x300 fror `summary_large_image`
+                    - `twitter:image:alt`
+                        - A text description of the image conveying the essential nature of an image to users who are visually impaired. Maximum 420 characters.
+        - Structured Data #project-management/story
+            - What is it
+                - Information that crawlers are already looking for
+                - Consistent structure across many web properties
+                - Preferred format: JSON-LD in a special script tag  
+                    `<script type="application/ld+json"></script>`
+            - What it gets you
+                - Enhanced features in apps
+                - Indexers don't have to guess so much about connections between things
+                - More control over the way search results work
+            - [Schema.org](http://schema.org/)
+        - Mobile Optimizations #project-management/story
+            - Mobile Index Split
+                - Your search ranking may be different depending on whether someone is searching on a desktop or mobile device
+                - This is impacted by how well your app/site presents itself on mobile devices
+            - Viewport
+                - Ensures your content is sized correctly on mobile devices
+                - `content`
+                    - width
+                        - positive integer or 'device width'
+                    - initial scale
+                        - controls whether you're zoomed out or zoomed in by default
+                    - maximum-scale, minimum-scale
+                        - bounds how far the user can zoom in and out
+                    - user-scalable
+                        - turns on or off user scaling
+            - Other meta tags
+                - `<meta name="apple-mobile-web-app-capable" content="yes">`
+                    - Makes your site appear more app-like if it is launched from a home-screen bookmark
+                    - Launches in "full-screen mode"
+                - `<meta name="apple-mobile-web-app-status-bar-style" content="black">`
+                    - Lets you change the status bar color from it's default color to black
+                - `<meta name="apple-mobile-web-app-title" content="My title here">`
+                    - Let's you change the title of your site as it appears in a home screen bookmark
+            - manifest.json
+                - Web app manifest
+                - W3C draft phase, supported by some android devices
+                - Simple JSON file that tells the browser about your web application and how it should behave when 'installed' on the user's mobile device or desktop.
+        - Accelerated Mobile Pages (AMP) Project #project-management/story
+        - Wrapping Up Modern SEO #project-management/story
+    - [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) [read]
+    - [Modern SEO](https://frontendmasters.com/courses/modern-seo/) [watch][$]
+    - [SEO Fundamentals From David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) [watch][$]
+    - [SEO Fundamentals From Paul Wilson](http://www.pluralsight.com/courses/seo-fundamentals) [watch][$]
+    - [SEO Tutorial For Beginners in 2016](http://www.hobo-web.co.uk/seo-tutorial/) [read]
+    - [SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers) [watch][$]

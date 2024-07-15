@@ -1,0 +1,1 @@
+[[Callback Function|Callback functions]] are [[Closure|closures]], which means they have access to the containing function's [[Variable|variables]] as well as [[global variables]]

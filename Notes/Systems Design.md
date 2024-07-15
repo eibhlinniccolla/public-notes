@@ -1,0 +1,13 @@
+- Notes
+    - Distributed System
+        - A distributed system is a system with many components that are located on different machines.
+        - These machines communicate with one another to complete tasks such as adding a new user to the database and returning data from API requests.
+        - Despite being a distributed system with many moving parts, the user sees one cohesive process.
+    - Characteristics Of Distributed Systems
+        - If you do a Google search for “Key characteristics of distributed systems” you’ll get some
+        - variance in words. Some of the words and phrases you’ll encounter include
+        - “concurrency”, “fault tolerance”, and “scalability”. These words can seem intimidating if
+        - you don’t have experience with systems design so let’s break down a couple of these
+        - characteristics.
+- Resources
+    - https://www.educative.io/courses/grokking-the-system-design-interview

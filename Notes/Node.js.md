@@ -1,0 +1,38 @@
+- Outline
+    - Node Fundamentals #project-management/goal
+    - Node Fundamentals Project #project-management/goal
+- Notes
+- Resources
+    - Books
+        - _Professional Node.js: Building JavaScript Based Scalable Software_ - Pedro Teixera
+        - _Node.js: JavaScript Everywhere_ - Guillermo Rauch
+        - ~~_The Node Beginner Book_ - Manuel Kiessling~~
+        - _The Node Craftsman Book_ - Manuel Kiessling
+    - Courses
+        - [FEM] [Introduction to Node.js](https://frontendmasters.com/courses/node-js/)
+        - [Egghead] Introduction to Node: The Fundamentals
+        - [Egghead] Getting Started with Express.js
+        - [Egghead] JSON Web Token (JWT) Authentication with Node.js and Auth0
+        - [Egghead] Build Node.js APIs with OpenAPI Spec (Swagger)
+        - [FEM] Digging Into Node.js
+        - [FEM] The Hard Parts of Servers & Node.js
+        - [FEM] [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/) #project-management/story
+        - [FEM] [Networking and Streams](https://frontendmasters.com/courses/networking-streams/)
+        - [Udemy] [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
+        - [Udemy] [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+        - [FEM] Full Stack for Front-End Engineers, v2
+        - [FEM] Networking and Streams
+        - [Udemy] [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/)
+        - [Egghead] Create your own twitter bots
+        - [Egghead] Build a Node.js REST API with LoopBack
+- Notes
+    - Globals
+        - `process` - has information about the environment the program is running in
+        - `require` - function to find and use modules in the current module
+        - `__dirname` - current directory path
+        - `module` - information about the current module, methods for making modules consumable
+        - `global` - like `window`, the "global" object
+    - The Event Loop
+        - The event loop keeps running as long as there are event listeners still registered
+
+[[Intro to Node.js, v3 - Scott Moss]]

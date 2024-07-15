@@ -1,0 +1,9 @@
+- How does it work
+    - Client sends request to server for page
+    - Server renders requested page, and then sends back the rendered page, as well as the compiled bundle
+    - After the initial page load, the SPA works as normal
+- Initial setup
+    - Create `clientapp.js` file
+        - replace React.render with hydrate
+- `renderToString`
+- `renderToNodeStream`

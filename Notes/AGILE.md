@@ -1,0 +1,4 @@
+- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+- Practices of an Agile Developer
+- Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin
+- Agile Principles, Patterns, and Practices in C# by Robert C. Martin

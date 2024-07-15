@@ -1,0 +1,15 @@
+- Philosophy of Coercion #project-management/story
+    - You should adopt a coding style that makes value types plain and obvious
+    - Make sure that the types involved in every operation are clear, so corner cases are safely managed
+        - Don't write insane polymorphic functions that can take any input and do 15 different things
+    - When writing code comments, focus on the **why** rather than the **how** or **what**
+    - Implicitness is _abstraction_, not _magic_
+        - Hiding unnecessary details
+    - Ultimate question: Is showing the reader the extra type details helpful or distracting?
+    - Useful: when the reader is focused on what's important
+    - Dangerous: when ther reader can't tell what will happen
+    - Better: when the reader understands the code
+    - It is irresponsible to knowingly avoid usage of a feature that can improve code readability
+- When writing JS code, make it obvious what the types are
+- You should be able to use `==` without fear, because the reader of the code knows what the types are and whether coercion is okay
+- When making comparisons, always make a decision as to whether coercion is helpful or not

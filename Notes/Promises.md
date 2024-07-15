@@ -1,0 +1,32 @@
+What is a promise?
+	- Promises are special objects built into JS that get returned immediately from calls to some web browser APIs/features (e.g. `fetch`)
+		- Not all async browser features are set up to return promises
+	- Act as a placeholder for the data we hope to get back from the web browser feature
+	- Allow us to attach functionality we'd like to defer until the background work is done running (using `.then`)
+	- Automatically trigger the deferred functionality, passing in the returned data (if any) from the background work as an input to the deferred function
+- Structure of a promise
+	- `.value`
+		- initially `undefined`
+		- stores the result of whatever background work the promise is doing
+		- it's tempting to try and access this property in synchronous code, but there's no way of knowing when the value will be updated
+	- `[[onFulfillment]]`
+		- A hidden property initally containing an empty array
+		- This is where any functions that we want to trigger when `.value` gets updated are stored
+	- `[[onRejected]]`
+		- Same as `[[onFulfillment]]` except these functions are only executed when there is an error with the background work
+	- `.then(fn)`
+		- takes the given function and sticks it into the `[[onFulfillment]]` array
+	- `.catch(fn)`
+		- takes the given function and sticks it into the `[[onRejected]]` array
+	- `.status`
+		- represents the status of the promise
+		- can only take one of three values:
+			- `pending` - the default value
+			- `resolved`
+			- `rejected`
+- How do promises interact with the task queues?
+	- Once a promise settles, or if it has already settled, it queues a **microtask** for its reactionary callbacks.
+		- This ensures promise callbacks are async even if the promise has already settled.
+		- So calling .then(yey, nay) against a settled promise immediately queues a microtask
+- Now, while before we saw promises _can_ block, it doesn't mean they will. More often than not promises are used for callbacks handled by the message queue. So while they're still handled by the job queue, the resolution of the promise doesn't happen except within the message queue. This means those promises are still non-blocking because when resolved it will be within the job queue of a completely different message.
+- For example fetchwill return a promise. But when you call fetch, it doesn't resolve right away. The time needed to make the request and receive remote data from that request is handled by the event loop. Many messages can be processed before that happens meaning things aren't blocked while you wait. Once data is finally received, the promise is resolved and in the next message's job queue it will seen and handled, calling any then callbacks given to that promise.

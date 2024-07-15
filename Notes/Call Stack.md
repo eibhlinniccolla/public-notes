@@ -1,0 +1,7 @@
+- Function calls form a stack of _frames_.
+- "A stack of calls to functions"
+- Special data structure
+    - keeps track of what execution context the thread of execution is in at any given time, and what context it will return to
+- When the program starts running, the global context is added to the **bottom** of the callstack
+- When a new execution context is created it is added to (**pushed** to) the top of the callstack
+- The last context added to the callstack is the first one to be removed (**popped** off)

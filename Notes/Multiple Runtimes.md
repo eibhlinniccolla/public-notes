@@ -1,0 +1,1 @@
+A web worker or a cross-origin iframe has its own stack, heap, and message queue. Two distinct runtimes can only communicate through sending messages via the [postMessage](https://developer.mozilla.org/en-US/docs/DOM/window.postMessage) method. This method adds a message to the other runtime if the latter listens to message events.

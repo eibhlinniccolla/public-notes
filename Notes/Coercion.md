@@ -1,0 +1,15 @@
+- Coercion Situations
+    - the `+` operator prefers coercion to strings
+        - if at least one of the values is a string, it will try to coerce the other to a string
+    - the unary `+` operator coerces to numbers
+    - the `-`, `/`, and `*` operators prefer coercion to numbers
+    - `!` coerces to booleans
+- You can coerce another type to a number using `Number()`
+    - `Number('16'); // 16`
+
+- [[Abstract Operations]]
+- [[Boxing]]
+- [[Coercion Best Practice]]
+- [[Corner Cases]]
+- [[Equality]]
+- [[Operations]]

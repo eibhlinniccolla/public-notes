@@ -1,0 +1,101 @@
+- Articles
+    - [Tasks, microtasks, queues and schedules - Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+        - #asynchronous-js
+    - [I never understood JavaScript closures until someone explained it to me like this - Olivier De Meulder](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+        - #foundations
+    - Article: [An introduction to Functional Programming with JavaScript](https://flaviocopes.com/javascript-functional-programming/)
+        - #functional-js
+    - Article Series: [Composing Software - The Blog Posts](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+    - Article Series: [Functional JS](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
+        - #functional-js
+    - Article Series: [So You Want to Be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+        - #functional-js
+    - Article: [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+        - #functional-js
+    - Article: [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
+        - #functional-js
+    - Article: [Basic Functional Programming Patterns in JavaScript](https://dev.to/nestedsoftware/basic-functional-programming-patterns-in-javascript-49p2)
+        - #functional-js
+    - Article: [MtJSI - What is functional programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+        - #functional-js
+    - Master the JavaScript Interview - Eric Elliott (Series)
+        - The Two Pillars of JavaScript pt. 1
+            - https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+        - The Two Pillars of JavaScript pt. 2
+            - https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+        - 10 Interview Questions Every JavaScript Developer Should Know
+            - https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+        - What is a closure?
+            - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+        - What is the difference between Class and Prototypal Inheritance?
+            - https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+        - What is a Pure Function?
+            - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
+        - What is Function Composition
+            - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0
+        - What is Functional Programming?
+            - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+        - What is a Promise?
+            - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+        - Soft Skills
+            - https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+    - Top JavaScript Frameworks and Topics to Learn in 2017 - Eric Elliott
+        - https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711
+    - What the JavaScript Market really looks like in 2016
+        - https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467
+    - Becoming a JavaScript Developer
+        - https://infinum.co/the-capsized-eight/becoming-a-javascript-developer
+    - [ES Modules Deep Dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+    - [https://medium.com/@rangleio/thinking-in-nested-streams-with-rxjs-8e7d51ce4775](https://medium.com/@rangleio/thinking-in-nested-streams-with-rxjs-8e7d51ce4775)
+        - #asynchronous-js #rxjs
+    - [RxJs Error Handling: Complete Practical Guide](https://blog.angular-university.io/rxjs-error-handling/)
+        - #asynchronous-js #rxjs
+    - [Comprehensive Guide to Higher-Order RxJs Mapping Operators: switchMap, mergeMap, concatMap (and exhaustMap)](https://blog.angular-university.io/rxjs-higher-order-mapping/)
+        - #asynchronous-js #rxjs
+    - https://javascript.info/event-loop
+        - #asynchronous-js
+- Books
+    - [JavaScript Grammar](https://drive.google.com/open?id=1p20NERaxeDWhUq2qibIABn3zsyvAdPop)
+        - #foundations #asynchronous-js #dom #patterns #object-oriented
+    - [Eloquent JavaScript](http://eloquentjavascript.net/)
+        - #foundations #asynchronous-js #regex #debugging #modules #dom #node
+    - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+        - #foundations #object-oriented #patterns
+    - [You Don't Know JS (series)](https://github.com/getify/You-Dont-Know-JS)
+        - #foundations #asynchronous-js #es6
+    - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+        - #functional-js
+    - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+        - #functional-js
+    - [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://shop.oreilly.com/product/0636920028857.do)
+        - #functional-js
+    - [Composing Software - Eric Elliott](https://leanpub.com/composingsoftware)
+        - #functional-js
+    - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+        - #patterns #modules
+    - [JavaScript Patterns by Stoyan Stefanov](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752)
+        - #foundations #patterns #dom #object-oriented
+    - [Writing Maintainable JavaScript by Nicholas Zakas](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)
+        - #patterns #dom #syntax #misc
+    - [If Hemingway Wrote JavaScript - Angus Croll](https://nostarch.com/hemingway)
+- Courses
+    - https://javascript.info/
+        - #foundations #asynchronous-js #modules
+    - https://testingjavascript.com/
+        - #testing
+- Libraries
+    - THREE.js
+    - [anime.js](https://animejs.com/)
+    - [JavaScripting](https://www.javascripting.com/) (Collection of libraries)
+- Talks
+    - Talk: [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
+    - Talk: [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
+    - Talk: [Functional Programming Fundamentals - Matthew Gerstman](https://www.youtube.com/watch?v=kkRyjXDpYqg)
+- Tools
+    - [https://rxviz.com/](https://rxviz.com/)
+        - #asynchronous-js #rxjs
+    - [https://rxmarbles.com/](https://rxmarbles.com/)
+        - #asynchronous-js #rxjs
+- Videos
+    - Video Series: [Functional Programming - Fun Fun Functions](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=2&t=0s)
+    - Video: [Snake Game in Functional JavaScript](https://www.youtube.com/watch?v=bRlvGoWz6Ig)
