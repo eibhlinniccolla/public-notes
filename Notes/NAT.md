@@ -1,0 +1,6 @@
+- process where a network device, usually a firewall, assigns a public address to a computer (or group of computers) inside a private network
+- main use of NAT is to limit the number of public IP addresses an organization or company must use, for both economy and security purposes.
+- most common form of network translation involves a large private network using addresses in a private range
+- https://whatismyipaddress.com/nat
+- https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/26704-nat-faq-00.html
+- https://techterms.com/definition/nat

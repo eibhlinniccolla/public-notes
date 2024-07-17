@@ -1,0 +1,56 @@
+- Types of records
+	- CNAME (Canonical Name) Records
+		- links an alias name to another true or _canonical_ domain name
+			- _www.example.com_ might link to _example.com_
+		- Format
+			- The canonical representation is:
+				- `CNAME <domain-name>`
+				- where `<domain-name>` is a fully-qualified domain name such as example.com.
+		- Restrictions
+			- A CNAME record must always point to another domain name, never directly to an IP address.
+			- A CNAME record cannot co-exist with another record for the same name. It’s not possible to have both a CNAME and TXT record for www.example.com.
+			- A CNAME can point to another CNAME, although this configuration is generally not recommended for performance reasons.
+				- When applicable, the CNAME should point as closely as possible to the target name in order to avoid unnecessary performance overheads.
+		- CNAME vs. HTTP redirect
+			- The CNAME record is sometimes improperly referred to as _redirect_, generally in the context of web (HTTP) redirects.
+			- There is no direct correlation between a CNAME and an HTTP redirect, nor does configuring CNAME automatically result in any HTTP redirect.
+			- In order to perform an HTTP redirect, the server responding to the HTTP request must be configured to return an appropriate HTTP response. This is not directly achievable using a CNAME.
+		- CNAME records are typically used to map a subdomain such as _www_ or _mail_ to the domain hosting that subdomain’s content
+		- CNAME records make it easy to run multiple services from one IP address
+		- Each CNAME record associates a service with a domain name, not a physical IP address.
+			- The physical IP address is instead identified by your domain's A record
+			- If your IP address changes, you only have to change the A record, not each CNAME record.
+		- stored in your domain’s DNS settings as a pair of values
+			- one value identifies the alias you're creating the record for, which is typically a subdomain like _www_ or _mail_.
+			- other value identifies the domain the alias should point to.
+	- A (Address) Records
+		- (also known as a host record)
+		- links a domain to the physical IP address of a computer hosting that domain's services
+		- Internet traffic uses the A record to find the computer hosting your domain's DNS settings
+		- The value of an A record is always an IP address
+		- multiple A records can be configured for one domain name
+		- A Records are the simplest type of DNS records, and one of the primary records used in DNS servers.
+		- You can use multiple A records for the same domain in order to provide redundancy
+		- multiple names could point to the same address, in which case each would have its own A record pointing to that same IP address
+		- Format
+			- The structure of an A record follows the standard top-level format definition defined [RFC 1035](https://tools.ietf.org/html/rfc1035#section-3.2.1). The RDATA section is composed of one single element:
+			- The canonical representation is:
+				- `A <address>`
+				- address - A 32 bit Internet address representing an IPv4 address
+	- NS (Name Service) Records
+		- determine which servers will communicate DNS information for a domain
+		- Generally, you have primary and secondary name server records for your domain
+		- delegates a subdomain to a set of name servers
+	- MX (Mail eXchange) Records
+		- direct a domain's email to the servers hosting the domain's user accounts
+		- Multiple MX records can be defined for a domain, each with a different priority.
+			- If mail can't be delivered using the highest priority record, the second priority record is used, and so on.
+	- TXT Records
+		- provides text information to sources outside the domain
+			- can be used for a number of arbitrary purposes
+			- can be either human- or machine-readable text
+- [[Time-To-Live (TTL)]]
+
+- Querying DNS Records
+	- You can use `dig` to determine the record associated to a domain name.
+		- The result is contained in the ANSWER section. It contains the fully-qualified domain name (FQDN), the remaining time-to-live (TTL), and the IP address.

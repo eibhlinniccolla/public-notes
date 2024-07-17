@@ -1,0 +1,41 @@
+4 Layers
+	- Link describes the access to physical media (e.g. using the network card)
+	- Internet describes the envelope and routing of data — how it is packaged (IP)
+	- Transport describes the way the data is delivered from the starting point to the final destination (TCP, UDP)
+	- Application describes the meaning or format of the transferred messages (HTTP)
+- IPv4
+	- Traditional IP addresses 32 bits long with 8 bits for each part of the IP address
+	- The parts of the IP represent the networks, subnetworks, and device  
+		`174.129.14.120  
+		network / network / subnetwork / device`
+	- No longer viable because of the number of devices on the internet
+- IPv6
+	- Longer than IPv4
+	- 128 bits per address
+- Subnet Mask
+	- https://networkengineering.stackexchange.com/questions/3697/the-slash-after-an-ip-address-cidr-notation
+	- https://superuser.com/questions/1163565/what-does-a-forward-slash-followed-by-a-number-mean-in-ip
+- How are IP Addresses assigned
+	- **Internet Assigned Numbers Authority (IANA)** is the organization responsible for registering IP address ranges to organizations and Internet Service Providers (ISPs)
+	- To allow organizations to freely assign private IP addresses, the **Network Information Center (InterNIC)** has reserved certain address blocks for private use. The following IP blocks are reserved for private IP addresses.
+- Public vs. Private IP
+	- https://www.geeksforgeeks.org/difference-between-private-and-public-ip-addresses/
+	- https://whatismyipaddress.com/private-ip
+	- Public IP
+		- IP address that can be accessed over the Internet
+		- globally unique IP address assigned to a computing device
+	- Private IP
+		- allocated by InterNIC to allow organizations to create their own private network
+		- There are three IP blocks (1 class A, 1 class B and 1 class C) reserved for a private use.
+		- The computers, tablets and smartphones sitting behind your home, and the personal computers within an organizations are usually assigned private IP addresses
+		- A network printer residing in your home is assigned a private address so that only your family can print to your local printer.
+		- However, the devices residing outside of your local network cannot directly communicate via the private IP address, but uses your router's public IP address to communicate
+		- To allow direct access to a local device which is assigned a private IP address, a Network Address Translator (NAT) should be used.
+		- used to assign computers within your private space without letting them directly expose to the Internet
+		- For example, if you have multiple computers within your home you may want to use private IP addresses to address each computer within your home.
+		- In this scenario, your router gets the public IP address, and each of the computers, tablets and smartphones connected to your router (via wired or wifi) gets a private IP address from your router via DHCP protocol.
+- TCP (Transmission Control Protocol)
+	- Manages sending and receiving of data as packets
+	- When all packets arrive at destination, TCP does an inventory
+	- Sends back acknowledgement of packets received
+	- If any packets are missing, the original server resends them

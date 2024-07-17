@@ -1,0 +1,7 @@
+- `.com`, `.net`, `.org`
+- tell users the general purpose of the service behind the domain name
+- The most generic TLDs (.com, .org, .net) don't require web services to meet any particular criteria
+- some TLDs enforce stricter policies so it is clearer what their purpose is. For example
+	- Local TLDs such as .us, .fr, or .se can require the service to be provided in a given language or hosted in a certain country — they are supposed to indicate a resource in a particular language or country.
+	- TLDs containing .gov are only allowed to be used by government departments.
+	- The .edu TLD is only for use by educational and academic institutions.

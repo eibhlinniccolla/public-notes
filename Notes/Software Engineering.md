@@ -33,7 +33,7 @@
 [[Resumes]]
 [[Traits of a Senior Engineer]]
 [[Website Portfolio]]
-[[Database Theory]]
+[[Databases]]
 [[GraphQL]]
 [[MongoDB]]
 [[Node.js]]
@@ -41,6 +41,6 @@
 
 [[AGILE]]
 [[Software Engineering Projects Ideas]]
-[[Computer Science Resources]]
+[[Computer Science]]
 [[UX, UI]]
 [[Systems Design]]

@@ -5,3 +5,5 @@
 - Egghead: Create Graphics with HTML Canvas
 - Egghead: Create an SVG Icon System
 - Egghead: Learn HTML5 Graphics and Animation
+
+[[Semantic HTML]]

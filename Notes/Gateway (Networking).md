@@ -1,0 +1,7 @@
+- network device (a router or firewall, server, any network device which allows to and from traffic)
+- acts as a gateway between two networks ( internal and external network)
+- The specific address given on the router is called default gateway
+- where my network request is routed when the destination IP is outside my subnet
+- The DNS is where all requests to translate a host name to an ip address are sent if they cannot be resolved by the local hosts file
+- This hostname to ip address mapping is one of the first steps that must be completed prior to any network communication with another host.
+- Basically, it represents the interface address of your router, which helps it communicate with IP networks. No gateway, no DNS server access for your computer. Simple as that.

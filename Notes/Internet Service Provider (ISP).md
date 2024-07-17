@@ -1,0 +1,3 @@
+- An ISP is a company that manages some special _routers_ that are all linked together and can also access other ISPs' routers
+- the message from our network is carried through the network of ISP networks to the destination network
+- The Internet consists of this whole infrastructure of networks.

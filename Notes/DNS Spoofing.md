@@ -1,0 +1,1 @@
+- When a hacker changes a DNS server to match a domain name with the incorrect IP address

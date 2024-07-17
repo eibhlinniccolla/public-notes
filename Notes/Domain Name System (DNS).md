@@ -1,0 +1,31 @@
+What is it?
+	- Associates URLs with IP addresses
+		- [[Domain Name]]
+	- [[Subdomain]]
+	- "Naked" Domains
+		- a domain address without the "www" prefix
+	- [[Domain Registrar]]
+	- [[Domain host]]
+	- [[Name Server]]
+	- WHOIS directory
+		- public listing of domain names, and the people or organizations associated with each name
+		- some domain name owners prefer to have their personal information hidden from the WHOIS directory
+		- There are many free web-based directories available on the Internet.
+		- mailing address and a telephone number
+	- DNS refreshing
+		- DNS databases are stored on every DNS server worldwide, and all these servers refer to a few special servers called “authoritative name servers” or “top-level DNS servers.” — these are like the boss servers that manage the system.
+		- Whenever your registrar creates or updates any information for a given domain, the information must be refreshed in every DNS database. Each DNS server that knows about a given domain stores the information for some time before it is automatically invalidated and then refreshed (the DNS server queries an authoritative server and fetches the updated information from it). Thus, it takes some time for DNS servers that know about this domain name to get the up-to-date information.
+	- How does a DNS request work?
+		- You type a URL in your browser's location bar.
+		- Your browser asks your computer if it already recognizes the IP address identified by this domain name (using a local DNS cache). If it does, the name is translated to the IP address and the browser negotiates contents with the web server. End of story.
+		- If your computer does not know which IP is behind the mozilla.org name, it goes on to ask a DNS server, whose job is precisely to tell your computer which IP address matches each registered domain name.
+		- Now that the computer knows the requested IP address, your browser can negotiate contents with the web server.
+- Why was it created?
+	- Created to be an open and public communication protocol for government and educational institutions
+- How is it organized?
+	- DNS servers are connected in a distributed hierarchy
+		- Divided into zones splitting up responsibility for major domains (.com, .net, .org)
+- [[DNS Record]]
+
+- [[DNS Spoofing]]
+- [[Gateway (Networking)]]

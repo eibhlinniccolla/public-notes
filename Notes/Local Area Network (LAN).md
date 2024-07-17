@@ -1,0 +1,21 @@
+- What is it
+	- a collection of devices connected together in one physical location, such as a building, office, or home
+	- Comprised of cables, access points, switches, routers, and other components that enable devices to connect to internal servers, web servers, and other LANs via Wide Area Networks.
+	- Wide Area Network (WAN) / Metropolitan Area Network (MAN)
+		- cover larger geographic areas
+		- some WANs and MANs connect many LANs together
+- Benefits
+	- The devices can use a single Internet connection, share files with one another, print to shared printers, and be accessed and even controlled by one another.
+- two types
+	- client/server LANs
+		- consists of several devices (the clients) connected to a central server
+		- server manages file storage, application access, device access, and network traffic
+		- client can be any connected device that runs or accesses applications or the Internet
+		- clients connect to the server either with cables or through wireless connections
+	- peer-to-peer LANs
+		- doesn't have a central server and cannot handle heavy workloads like a client/server LAN can, and so they're typically smaller
+		- each device shares equally in the functioning of the network
+		- devices share resources and data through wired or wireless connections to a switch or router
+		- Most home networks are peer-to-peer
+- virtual LANs
+	- enable network administrators to logically group network nodes and partition their networks without a need for major infrastructure changes

@@ -1,0 +1,14 @@
+- Domains
+	- A domain name (often simply called a _domain_) is an easy-to-remember name that’s associated with a physical IP address on the Internet
+	- Parts
+		- Labels (or components)
+			- Restrictions
+				- case-insensitive
+				- one to sixty-three characters in length
+				- contains only the letters A through Z, digits 0 through 9, and the - character
+			- The label located right before the TLD is also called a _Secondary Level Domain_ (SLD).
+			- A domain name can have many labels (or components). It is not mandatory nor necessary to have 3 labels to form a domain name.
+		[[Top-Level Domain (TLD)]]
+	- Registering
+		- You cannot “buy a domain name”.
+			- This is so that unused domain names eventually become available to use again by someone else.

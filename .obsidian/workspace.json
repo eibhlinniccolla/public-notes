@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b819dcec6b138e8a",
+        "id": "f309d52422d289ae",
         "type": "tabs",
         "children": [
           {
-            "id": "efcc898dddb82f25",
+            "id": "d2895aa04298fa06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Topics/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12296c5a9220d251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inserting records into a table.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "html",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Topics/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Topics/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Topics/SQL.md"
               }
             }
           },
@@ -154,34 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efcc898dddb82f25",
+  "active": "d2895aa04298fa06",
   "lastOpenFiles": [
-    "Notes/Why are prototypes useful? (JavaScript).md",
-    "Notes/Which fundamental objects to use with the new keyword in JS.md",
-    "Notes/What is a prototype? (JavaScript).md",
-    "Notes/Webpack.md",
-    "Notes/Web Development.md",
-    "Notes/Vue.md",
-    "Notes/Virtual DOM.md",
-    "Notes/Variables don't have types, values do.md",
-    "Notes/Variable Declaration.md",
-    "Notes/UX, UI.md",
-    "Notes/Using types in functions (TypeScript).md",
-    "Notes/Using JavaScript to interact with the DOM.md",
-    "Notes/Unsorted JavaScript Resources.md",
-    "Notes/Undefined.md",
-    "Notes/Undeclared behaves a bit like a type, but is not listed as a type in the spec.md",
-    "Notes/TypeScript.md",
-    "Notes/Types.md",
-    "Notes/Types of tasks (JavaScript).md",
-    "Notes/typeof keyword.md",
-    "Notes/typeof is essentially an enum list.md",
-    "Notes/Type Alias (TypeScript).md",
-    "Notes/Thread (Software Engineering).md",
-    "Notes/this.md",
-    "Notes/The \"new\" keyword (JavaScript).md",
-    "Notes/Testing.md",
+    "Notes/Deleting a record.md",
+    "Topics/SQL.md",
+    "Notes/Updating a record.md",
+    "Notes/Inserting records into a table.md",
+    "Notes/Updating a table.md",
+    "Notes/Selecting rows from table.md",
+    "Notes/Creating a table.md",
+    "Notes/Semantic HTML.md",
+    "Topics/HTML.md",
+    "Topics/Accessibility.md",
+    "Topics/Networking.md",
+    "Topics/JavaScript.md",
+    "Topics/Vue.md",
+    "Topics/UX, UI.md",
+    "Topics/TypeScript.md",
+    "Topics/SEO.md",
+    "Topics/React.md",
+    "Topics/Node.js.md",
+    "Topics/Next.js.md",
+    "Topics/MongoDB.md",
+    "Notes/Firewall (Networking).md",
+    "Notes/Dynamic Host Configuration Protocol (DHCP).md",
+    "Topics/Testing.md",
     "Notes/Testing 1.md",
+    "Topics/Databases.md",
+    "Notes/JavaScript Corner Cases.md",
+    "Topics",
     "Notes"
   ]
 }

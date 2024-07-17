@@ -10,6 +10,6 @@
 - [[Abstract Operations]]
 - [[Boxing]]
 - [[Coercion Best Practice]]
-- [[Corner Cases]]
+- [[JavaScript Corner Cases]]
 - [[Equality]]
 - [[Operations]]

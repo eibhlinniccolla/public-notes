@@ -1,2 +1,0 @@
-- Egghead: SQL Fundamentals
-- Egghead: Advanced SQL for Professional Developers

@@ -13,7 +13,8 @@
         margin-left: 4%;  
         flex: 0 0 44%;  
         /* 4 + 44 + 4 + 44 + 4 = 100% */  
-        }`
+        }
+        `
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox
 - https://www.smashingmagazine.com/2018/10/flexbox-use-cases/

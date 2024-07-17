@@ -1,0 +1,4 @@
+- Special computers that act like traffic managers to help make sure that packets get where they need to go
+- Keep track of multiple routes for sending packets and they select the cheapest for each packet based on its destination
+- Multiple routes make it possible to complete transaction even if something goes wrong (_fault tolerance_)
+- https://whatismyipaddress.com/router

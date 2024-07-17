@@ -1,0 +1,3 @@
+- a company that sells domain names that aren't yet owned and are therefore available for registration
+- use domain name registries to keep track of technical and administrative information connecting you to your domain name
+- Note : For some domain names, it might not be a registrar which is in charge of keeping track. For instance, every domain name under .fire is managed by Amazon.

@@ -1,0 +1,3 @@
+- Use flexbox when aligning self-contained units of content in one dimension
+- Use CSS Grid when doing entire page layouts in 2 dimensions
+- [Grid fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)

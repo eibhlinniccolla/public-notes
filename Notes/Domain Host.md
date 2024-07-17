@@ -1,0 +1,1 @@
+A domain host is a company that runs the DNS servers for your domain and manages its DNS records

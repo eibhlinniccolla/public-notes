@@ -1,0 +1,7 @@
+- a value in a [[DNS record]] that determines the number of seconds before subsequent changes to the record go into effect
+- Each DNS record has a TTL value
+- changing a record's TTL affects how long it will take any _subsequent_ change to happen
+	- The shorter TTL will only take effect after the prior period expires.
+- recommended setting is 3600, which tells servers across the Internet to check every hour for updates to the record
+- To make subsequent changes happen even more quickly—for example, if you think you might want to quickly revert a change—you can set a shorter TTL, such as 300 seconds (5 minutes).
+- Once the records are configured correctly, we recommend setting a TTL value of 86400, which tells servers across the Internet to check every 24 hours for updates to the record.

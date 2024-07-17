@@ -1,4 +1,4 @@
-
+Bracket notation is one of the two ways of directly accessing the properties of an object (the other being [[Dot Notation (JavaScript)|Dot Notation]]).
 ## Example:
 
 ```js
