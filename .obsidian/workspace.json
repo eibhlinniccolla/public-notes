@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eibhlín's Public Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eibhlín's Public Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eibhlín's Public Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eibhlín's Public Notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "500a2be6eee6a566",
   "lastOpenFiles": [
-    "README.md",
     "Eibhlín's Public Notes.md",
+    "README.md",
+    "Images/headshot.png",
     "Images",
     "Notes/Inserting records into a table.md",
     "Topics/SQL.md",
@@ -196,7 +197,6 @@
     "Topics/Next.js.md",
     "Topics/MongoDB.md",
     "Notes/Firewall (Networking).md",
-    "Notes/Dynamic Host Configuration Protocol (DHCP).md",
     "Topics",
     "Notes"
   ]
