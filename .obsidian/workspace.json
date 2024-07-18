@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f309d52422d289ae",
+        "id": "31f64651c706b1b3",
         "type": "tabs",
         "children": [
           {
-            "id": "d2895aa04298fa06",
+            "id": "beb95933f4233985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/SQL.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12296c5a9220d251",
+            "id": "500a2be6eee6a566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inserting records into a table.md",
+                "file": "Eibhlín's Public Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/SQL.md",
+                "file": "Eibhlín's Public Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/SQL.md",
+                "file": "Eibhlín's Public Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/SQL.md"
+                "file": "Eibhlín's Public Notes.md"
               }
             }
           },
@@ -163,15 +164,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "d2895aa04298fa06",
+  "active": "500a2be6eee6a566",
   "lastOpenFiles": [
-    "Notes/Deleting a record.md",
-    "Topics/SQL.md",
-    "Notes/Updating a record.md",
+    "README.md",
+    "Eibhlín's Public Notes.md",
+    "Images",
     "Notes/Inserting records into a table.md",
+    "Topics/SQL.md",
+    "Notes/Problem Solutions.md",
+    "Notes/Ratio of positive, negative, and zero numbers in an array.md",
+    "Notes/Deleting a record.md",
+    "Notes/Updating a record.md",
     "Notes/Updating a table.md",
     "Notes/Selecting rows from table.md",
     "Notes/Creating a table.md",
@@ -190,10 +197,6 @@
     "Topics/MongoDB.md",
     "Notes/Firewall (Networking).md",
     "Notes/Dynamic Host Configuration Protocol (DHCP).md",
-    "Topics/Testing.md",
-    "Notes/Testing 1.md",
-    "Topics/Databases.md",
-    "Notes/JavaScript Corner Cases.md",
     "Topics",
     "Notes"
   ]
